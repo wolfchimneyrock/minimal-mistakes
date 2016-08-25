@@ -29,6 +29,19 @@ ritz-lobby:
   - url: portfolio/lobby-004.jpg
     image_path: portfolio/thumb-lobby-004.jpg
     alt: "Lobby 3"
+amse:
+  - url: portfolio/web-amse-002.jpg
+    image_path: portfolio/thumb-amse-002.jpg
+    alt: "AMEX 1"
+  - url: portfolio/web-amse-008.jpg
+    image_path: portfolio/thumb-amse-008.jpg
+    alt: "AMEX 2"
+  - url: portfolio/web-amse-013.jpg
+    image_path: portfolio/thumb-amse-013.jpg
+    alt: "AMEX 3"
+  - url: portfolio/web-amse-015.jpg
+    image_path: portfolio/thumb-amse-015.jpg
+    alt: "AMEX 4"
 ---
 
 
@@ -40,6 +53,12 @@ Tools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop
 
 {% include gallery id="ritz-lobby" caption="
 ### Ritz Plaza Lobby
+Design and Visualization \\
+Tools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop 
+" %}
+
+{% include gallery id="amse" caption="
+### American Stock Exchange Retail Concept
 Design and Visualization \\
 Tools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop 
 " %}
