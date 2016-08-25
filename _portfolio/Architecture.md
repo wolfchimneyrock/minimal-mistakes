@@ -18,7 +18,7 @@ gallery:
     alt: "Fitness / Aerobics"
   - url: portfolio/web-ritz-lounge.jpg
     image_path: portfolio/thumb-ritz-lounge.jpg
-    "Lounge"
+    alt: "Lounge"
 ---
 
 
