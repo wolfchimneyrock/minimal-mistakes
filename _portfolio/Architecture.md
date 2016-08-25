@@ -7,3 +7,4 @@ gallery:
 ---
 
 
+{% include gallery caption="Ritz Plaza Amenities" %}
