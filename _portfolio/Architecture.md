@@ -33,9 +33,6 @@ amse:
   - url: portfolio/web-amse-002.jpg
     image_path: portfolio/thumb-amse-002.jpg
     alt: "AMEX 1"
-  - url: portfolio/web-amse-008.jpg
-    image_path: portfolio/thumb-amse-008.jpg
-    alt: "AMEX 2"
   - url: portfolio/web-amse-013.jpg
     image_path: portfolio/thumb-amse-013.jpg
     alt: "AMEX 3"
