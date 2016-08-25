@@ -1,6 +1,6 @@
 ---
 title: Architectural Projects
-gallery:
+ritz-amenity:
   - url: portfolio/web-ritz-roof.jpg
     image_path: portfolio/thumb-ritz-roof.jpg
     alt: "Rooftop Lounge"
@@ -19,11 +19,27 @@ gallery:
   - url: portfolio/web-ritz-lounge.jpg
     image_path: portfolio/thumb-ritz-lounge.jpg
     alt: "Lounge"
+ritz-lobby:
+  - url: portfolio/lobby-000.jpg
+    image_path: portfolio/thumb-lobby-000.jpg
+    alt: "Lobby 1"
+  - url: portfolio/lobby-002.jpg
+    image_path: portfolio/thumb-lobby-002.jpg
+    alt: "Lobby 2"
+  - url: portfolio/lobby-004.jpg
+    image_path: portfolio/thumb-lobby-004.jpg
+    alt: "Lobby 3"
 ---
 
 
-{% include gallery caption="
-### Ritz Plaza Amenities \\
+{% include ritz-amenity caption="
+Ritz Plaza Amenities \\
+Design and Visualization \\
+Tools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop 
+" %}
+
+{% include ritz-lobby caption="
+Ritz Plaza Lobby \\
 Design and Visualization \\
 Tools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop 
 " %}
