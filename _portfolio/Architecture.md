@@ -22,4 +22,4 @@ gallery:
 ---
 
 
-{% include gallery caption="Ritz Plaza Amenities" %}
+{% include gallery caption="Ritz Plaza Amenities\nDesign and Visualization\nTools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop" %}
