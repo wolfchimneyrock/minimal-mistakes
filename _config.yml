@@ -94,7 +94,7 @@ author:
 
 # RJW Add portfolio collection
 collections:
-  - portfolio:
+  portfolio:
     output: true
     permalink: /portfolio/:path/
     
