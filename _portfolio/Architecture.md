@@ -23,7 +23,7 @@ gallery:
 
 
 {% include gallery caption="
-Ritz Plaza Amenities \\
+### Ritz Plaza Amenities \\
 Design and Visualization \\
 Tools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop 
 " %}
