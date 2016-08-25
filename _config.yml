@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "wolfchimneyrock"
 facebook:
   username               :
   app_id                 :
@@ -67,20 +67,20 @@ author:
   avatar           : "2a104e8.jpg"
   bio              : "Architect and Computer Scientist"
   location         : "NYC"
-  email            :
+  email            : "tholos@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           :
+  github           : "wolfchimneyrock"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "robert-wagner-93461512"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
