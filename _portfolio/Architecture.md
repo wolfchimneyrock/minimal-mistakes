@@ -39,6 +39,16 @@ amse:
   - url: portfolio/web-amse-015.jpg
     image_path: portfolio/thumb-amse-015.jpg
     alt: "AMEX 4"
+new-rochelle:
+  - url: portfolio/nr-001.jpg
+    image_path: portfolio/thumb-nr-001.jpg
+    alt: "New Rochelle 1"
+  - url: portfolio/nr-002.jpg
+    image_path: portfolio/thumb-nr-002.jpg
+    alt: "New Rochelle 2"
+  - url: portfolio/nr-003.jpg
+    image_path: portfolio/thumb-nr-003.jpg
+    alt: "New Rochelle 3"
 ---
 
 
@@ -56,6 +66,12 @@ Tools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop
 
 {% include gallery id="amse" caption="
 ### American Stock Exchange Retail Concept
+Design and Visualization \\
+Tools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop 
+" %}
+
+{% include gallery id="new-rochelle" caption="
+### Shoppes at New Rochelle Mall Concept
 Design and Visualization \\
 Tools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop 
 " %}
