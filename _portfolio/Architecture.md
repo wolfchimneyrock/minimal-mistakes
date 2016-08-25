@@ -32,14 +32,14 @@ ritz-lobby:
 ---
 
 
-{% include ritz-amenity caption="
-Ritz Plaza Amenities \\
+{% include gallery id="ritz-amenity" caption="
+### Ritz Plaza Amenities
 Design and Visualization \\
 Tools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop 
 " %}
 
-{% include ritz-lobby caption="
-Ritz Plaza Lobby \\
+{% include gallery id="ritz-lobby" caption="
+### Ritz Plaza Lobby
 Design and Visualization \\
 Tools: AutoCAD Architecture / 3DS MAX / Vray / Photoshop 
 " %}
