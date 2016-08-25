@@ -94,7 +94,9 @@ author:
 
 # RJW Add portfolio collection
 collections:
-  - portfolio
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Reading Files
