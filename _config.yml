@@ -92,6 +92,10 @@ author:
   xing             :
   youtube          :
 
+# RJW Add portfolio collection
+collections:
+  - portfolio
+
 
 # Reading Files
 include:
