@@ -211,6 +211,9 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
+year_archive:
+  type: liquid
+  path: /year-archive/
 tag_archive:
   type: liquid
   path: /tags/
