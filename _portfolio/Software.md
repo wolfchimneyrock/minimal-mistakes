@@ -2,8 +2,13 @@
 layout: portfolio
 title: Software Projects
 icon: cogs
+excerpt: ...
 ---
+
+
 # Software projects
+
+
 ### [FileList](https://github.com/wolfchimneyrock/FileList)
 A clone of the unix commands 'ls' and 'find' in Java
 
