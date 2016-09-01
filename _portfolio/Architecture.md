@@ -3,7 +3,7 @@ title: Architectural Projects
 icon: university
 excerpt: ""
 sidebar: 
-  - nav: true
+  nav: portfolio
 ritz-amenity:
   - url: portfolio/web-ritz-roof.jpg
     image_path: portfolio/thumb-ritz-roof.jpg
