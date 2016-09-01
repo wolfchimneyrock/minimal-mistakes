@@ -2,6 +2,8 @@
 title: Software Projects
 icon: cogs
 excerpt: ""
+sidebar:
+  nav: portfolio
 ---
 
 ### [FileList](https://github.com/wolfchimneyrock/FileList)
