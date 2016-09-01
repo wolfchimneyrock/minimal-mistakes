@@ -1,8 +1,10 @@
 ---
 title: Cognitive Science
 icon: cloud
-sidebar: true
+sidebar:
+  nav: portfolio
 excerpt: ""
+
 ---
 
 ### [The flow experience as the phenomenological aspect of a cognitive theory of attention](/images/portfolio/rjw_phil3422_2016-0526.pdf)
