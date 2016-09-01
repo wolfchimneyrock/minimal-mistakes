@@ -1,9 +1,9 @@
 ---
-layout: portfolio
+layout: single
 title: Data Science Projects
 icon: line-chart
 excerpt: ""
 sidebar:
   nav: portfolio
 ---
-# Data Science projects
+## 2015 Yelp Dataset Challenge 
