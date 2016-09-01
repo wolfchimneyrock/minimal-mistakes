@@ -67,5 +67,6 @@ During this course we will be covering chapters 1-5 and 7 of Michael Sipser's te
 
 ***
 
-## [MATH 3501: Introduction to Probability and Statistics](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3501&div=U) with [David Aulicino](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/faculty_details.php?faculty=1323)  
+## [MATH 3501: Introduction to Probability and Statistics](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3501&div=U) with [David Aulicino](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/faculty_details.php?faculty=1323) 
+
 ### Textbook: [Ross: _A first course in Probability_](https://www.amazon.com/First-Course-Probability-8th/dp/013603313X)  
