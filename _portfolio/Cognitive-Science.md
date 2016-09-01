@@ -1,6 +1,7 @@
 ---
 title: Cognitive Science
 icon: cloud
+sidebar: true
 excerpt: ""
 ---
 
