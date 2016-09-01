@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Fall 2016 at Brooklyn College
 ---
 
