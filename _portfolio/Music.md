@@ -1,7 +1,8 @@
 ---
-layout: portfolio
 title: Music
 icon: music
 excerpt: ""
+sidebar:
+  nav: portfolio
 ---
-# Musical projects
+
