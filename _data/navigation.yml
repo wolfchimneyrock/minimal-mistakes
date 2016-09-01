@@ -8,3 +8,20 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
+
+portfolio:
+  - title: Architectural
+    url: /portfolio/Architecture/
+  - title: Cognitive Science
+    url: /portfolio/CognitiveScience/
+  - title: Data Science
+    url: /portfolio/DataScience/
+  - title: Mathematics
+    url: /portfolio/Mathematics/
+  - title: Music
+    url: /portfolio/Music/
+  - title: Photography
+    url: /portfolio/Photography/
+  - title: Software
+    url: /portfolio/Software/
+    
