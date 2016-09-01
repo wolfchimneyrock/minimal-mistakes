@@ -2,6 +2,7 @@
 layout: single
 title: Fall 2016 at Brooklyn College
 excerpt: Courses and my initial impressions
+comments: true
 ---
 
 
